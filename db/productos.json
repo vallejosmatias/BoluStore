@@ -1,0 +1,613 @@
+[
+  {
+    "id": 1,
+    "img": "https://media.printables.com/media/prints/152557/images/1434712_ec778d33-550d-44db-a3b6-cb7d0a96ea59/thumbs/inside/320x240/jpg/broomholder1.webp",
+    "nombre": "Agarre palo de escoba",
+    "precio": 1200,
+    "articulo": "Accesorio",
+    "cantidad": 1
+  },
+
+  {
+    "id": 2,
+    "img": "https://media.printables.com/media/prints/564262/images/4519807_a7db1182-86e1-43e0-9357-0fd7784a9063/thumbs/inside/320x240/jpg/20230826_102119.webp",
+    "nombre": "Porta cables organizador",
+    "precio": 1400,
+    "articulo": "Organizadores",
+    "cantidad": 1
+  },
+
+  {
+    "id": 3,
+    "img": "https://media.printables.com/media/prints/258431/images/2362183_fd1aff76-7db1-4c13-9908-66b64e2ff041/thumbs/inside/320x240/png/rugged-box-parametric-01.webp",
+    "nombre": "Caja cierre hermetico",
+    "precio": 1700,
+    "articulo": "Accesorio",
+    "cantidad": 1
+  },
+
+  {
+    "id": 4,
+    "img": "https://media.printables.com/media/prints/496905/images/4045132_36ee8c74-4497-4d24-b214-4c885e54b583/thumbs/inside/320x240/jpg/featured_preview_8e0aefb5-17d8-447c-9cb9-07507a593d6a.webp",
+    "nombre": "Colector de polvo",
+    "precio": 1500,
+    "articulo": "Accesorio",
+    "cantidad": 1
+  },
+
+  {
+    "id": 5,
+    "img": "https://media.printables.com/media/prints/612611/images/4863144_a5177fb1-1fc7-427d-9081-52e904d619c1_275c8089-b244-42a6-9487-e8af9001b35d/thumbs/inside/320x240/png/large_display_6e4cef4e-8092-43f3-ad11-0c38fcd2fee1.webp",
+    "nombre": "spin cube",
+    "precio": 2000,
+    "articulo": "fidget toy",
+    "cantidad": 1
+  },
+
+  {
+    "id": 6,
+    "img": "https://media.printables.com/media/prints/352489/images/2992148_fb2ef65b-97fa-4bcc-848a-b2e94251e998/thumbs/inside/320x240/png/dirn.webp",
+    "nombre": "Organizador",
+    "precio": 1500,
+    "articulo": "Organizadores",
+    "cantidad": 1
+  },
+
+  {
+    "id": 7,
+    "img": "https://media.printables.com/media/prints/178035/images/1667589_5eb7891e-0a97-41fd-a9bb-7cc6b828a244/thumbs/inside/320x240/jpg/79ce327ccf19c444d662164138038e4b_display_large_17.webp",
+    "nombre": "Pulpos articulados",
+    "precio": 1700,
+    "articulo": "Articulados",
+    "cantidad": 1
+  },
+
+  {
+    "id": 8,
+    "img": "https://media.printables.com/media/prints/246961/images/2224292_d2db732d-c297-4709-a350-e5ad2ed71d8e/thumbs/inside/320x240/jpg/2022-07-24_14-07-45.webp",
+    "nombre": "Billetera hasta 5/t",
+    "precio": 1500,
+    "articulo": "Accesorio",
+    "cantidad": 1
+  },
+
+  {
+    "id": 9,
+    "img": "https://media.printables.com/media/prints/225251/images/2056517_ec46c87c-5ed1-44ed-b8c6-64dcaed597cc/thumbs/inside/320x240/jpg/dsc06287.webp",
+    "nombre": "Macetas",
+    "precio": 1000,
+    "articulo": "Decoración",
+    "cantidad": 1
+  },
+
+  {
+    "id": 10,
+    "img": "https://media.printables.com/media/prints/600797/images/4781864_9bc14bb2-ce9f-4732-b43d-4b8acce7042f_67742149-aec8-4e2c-bc23-0016bbd650b1/thumbs/inside/320x240/jpg/glove-box-dispenser.webp",
+    "nombre": "Soporte",
+    "precio": 3500,
+    "articulo": "Soportes",
+    "cantidad": 1
+  },
+
+  {
+    "id": 11,
+    "img": "https://media.printables.com/media/prints/379488/images/3196830_36410b20-87c6-4f89-bc8e-d6ba6734db33/thumbs/inside/320x240/jpeg/img_7627.webp",
+    "nombre": "soporte bolsa de perro",
+    "precio": 1500,
+    "articulo": "Soportes",
+    "cantidad": 1
+  },
+
+  {
+    "id": 12,
+    "img": "../asset/mates/mate2.jpg",
+    "nombre": "Mate Groot",
+    "precio": 2000,
+    "articulo": "Mates",
+    "cantidad": 1
+  },
+
+  {
+    "id": 13,
+    "img": "../asset/mates/mate3.jpg",
+    "nombre": "Mate Stich",
+    "precio": 3000,
+    "articulo": "Mates",
+    "cantidad": 1
+  },
+
+  {
+    "id": 14,
+    "img": "../asset/mates/mate4.jpg",
+    "nombre": "Mate Harry Potter",
+    "precio": 4000,
+    "articulo": "Mates",
+    "cantidad": 1
+  },
+
+  {
+    "id": 15,
+    "img": "../asset/mates/mate5.jpg",
+    "nombre": "Mate Darth Vader",
+    "precio": 4000,
+    "articulo": "Mates",
+    "cantidad": 1
+  },
+
+  {
+    "id": 16,
+    "img": "../asset/mates/mate6.jpg",
+    "nombre": "Mate Play Station",
+    "precio": 3000,
+    "articulo": "Mates",
+    "cantidad": 1
+  },
+
+  {
+    "id": 17,
+    "img": "https://media.printables.com/media/prints/550859/images/4424504_2cfbdff5-aba5-4b64-b72c-df96577e6f1b/thumbs/inside/320x240/png/all.webp",
+    "nombre": "Cabeza animales",
+    "precio": 6000,
+    "articulo": "Decoración",
+    "cantidad": 1
+  },
+
+  {
+    "id": 18,
+    "img": "https://media.printables.com/media/prints/109038/images/1079280_78579905-7e27-480c-ad7e-1075b0aa17f2/thumbs/inside/320x240/jpg/hanger.webp",
+    "nombre": "Soporte auriculares",
+    "precio": 4000,
+    "articulo": "Soportes",
+    "cantidad": 1
+  },
+
+  {
+    "id": 19,
+    "img": "https://media.printables.com/media/prints/265248/images/2363723_1924729f-3ee1-4036-9058-0ea05090f27b/thumbs/inside/320x240/jpg/1.webp",
+    "nombre": "Exprimidor pasta dental",
+    "precio": 3000,
+    "articulo": "Accesorio",
+    "cantidad": 1
+  },
+
+  {
+    "id": 20,
+    "img": "https://media.printables.com/media/prints/23859/images/248515_10718b5f-8c8c-49dc-848e-edb200f38481/thumbs/inside/320x240/png/title.webp",
+    "nombre": "Lampara luna",
+    "precio": 2000,
+    "articulo": "Decoración",
+    "cantidad": 1
+  },
+
+  {
+    "id": 21,
+    "img": "https://media.printables.com/media/prints/828/images/5382_b1e61465-26ed-493e-bba0-1c864fe38c53/thumbs/inside/320x240/jpg/20190423_1119231.webp",
+    "nombre": "Organizador de pilas",
+    "precio": 3500,
+    "articulo": "Organizadores",
+    "cantidad": 1
+  },
+
+  {
+    "id": 22,
+    "img": "https://media.printables.com/media/prints/576903/images/4680401_a195714a-3dbc-4d9b-aa9b-664d847c04eb/thumbs/inside/320x240/jpg/dsc00660.webp",
+    "nombre": "Estuche para cartas",
+    "precio": 5000,
+    "articulo": "Accesorio",
+    "cantidad": 1
+  },
+
+  {
+    "id": 23,
+    "img": "https://media.printables.com/media/prints/7876/images/59947_dffce728-7fee-476d-81d9-250fd3af26fb/thumbs/inside/320x240/jpg/dsc01937.webp",
+    "nombre":"Anillos rotativos",
+    "precio": 2000 ,
+    "articulo":"fidget toy",
+    "cantidad": 1
+  },
+  
+  {
+    "id":24 ,
+    "img": "https://media.printables.com/media/prints/58718/images/614884_9ed120aa-b3c3-4412-82a7-17671492fe2a/thumbs/inside/320x240/jpg/mvimg_20200511_082804.webp",
+    "nombre":"Organizador heladera",
+    "precio": 3000,
+    "articulo":"Organizadores",
+    "cantidad": 1
+  },
+  {
+    "id": 25,
+    "img": "https://media.printables.com/media/prints/6806/images/47111_bcfceb79-1b2e-4c5b-8980-b02fbb34d201/thumbs/inside/320x240/png/untitled-2.webp",
+    "nombre":"Cierre para bolsas",
+    "precio":2000 ,
+    "articulo": "Accesorio",
+    "cantidad": 1
+  },
+  {
+    "id": 26,
+    "img": "https://media.printables.com/media/prints/230676/images/2098535_b9638fa9-4d67-43e8-bf5e-5f5b00b7dcc5/thumbs/inside/320x240/jpg/dscn3430.webp",
+    "nombre":"Ganchos multiuso",
+    "precio":1000 ,
+    "articulo": "Soportes",
+    "cantidad": 1
+  },
+
+  {
+    "id": 27,
+    "img": "https://media.printables.com/media/prints/580932/images/4677513_b8a44067-bd77-43fc-8e7a-e2f7876fded6/thumbs/inside/320x240/png/halloweenghostearrings.webp",
+    "nombre":"aritos fantasma",
+    "precio": 800,
+    "articulo": "aros-llaveros",
+    "cantidad": 1
+  },
+
+  {
+    "id":28 ,
+    "img": "https://media.printables.com/media/prints/498947/images/4058852_89600c24-bf9a-413d-a092-e863c74d7fbb/thumbs/inside/320x240/png/jar3.webp",
+    "nombre":"caja a rosca",
+    "precio": 2000 ,
+    "articulo": "Accesorio",
+    "cantidad": 1
+  },
+
+  {
+    "id": 29,
+    "img": "https://media.printables.com/media/prints/336184/images/2878805_fbd36eff-c581-4006-99de-d9c66e7c0a9c/thumbs/inside/320x240/png/untitled23.webp",
+    "nombre":"Organizador de cables",
+    "precio":1200 ,
+    "articulo": "Organizadores",
+    "cantidad": 1
+  },
+
+  {
+    "id": 30,
+    "img": "https://media.printables.com/media/prints/199270/images/2317408_88e26ae7-97eb-414f-9855-345e7efbf5a1/thumbs/inside/320x240/jpg/watering-bottle-cap-new.webp",
+    "nombre":"Tapa regadora",
+    "precio": 1000,
+    "articulo": "Accesorio",
+    "cantidad": 1
+  },
+
+  {
+    "id": 31,
+    "img": "https://media.printables.com/media/prints/538186/images/4423418_7e9778f6-a10b-4011-b6a5-8fc083f21419/thumbs/inside/320x240/jpg/img_20230812_110121.webp",
+    "nombre":"Maceta moderna",
+    "precio": 2000,
+    "articulo": "Decoración",
+    "cantidad": 1
+  },
+
+  {
+    "id":32 ,
+    "img": "https://media.printables.com/media/prints/424351/images/3996155_22fc09ed-e986-43b0-a4fb-c5c10c5336b6/thumbs/inside/320x240/png/hero2.webp",
+    "nombre":"Organizador de cables",
+    "precio": 2000,
+    "articulo": "Organizadores",
+    "cantidad": 1
+  },
+
+  {
+    "id": 33,
+    "img": "https://media.printables.com/media/prints/558900/images/4485329_b1a4b951-6b50-402b-bf09-793d04ab3990/thumbs/inside/320x240/jpg/dscn4292.webp",
+    "nombre":"Juguete anti-estres",
+    "precio": 2000,
+    "articulo":"fidget toy",
+    "cantidad": 1
+  },
+
+  {
+    "id": 34,
+    "img": "https://media.printables.com/media/prints/394119/images/3291081_ff9c0b80-39ee-4c5d-a0fa-6ef03c381eac/thumbs/inside/320x240/jpg/screenshot_20230203-164637.webp",
+    "nombre":"Soporte para enchufe",
+    "precio":1500 ,
+    "articulo": "Soportes",
+    "cantidad": 1
+  },
+
+  {
+    "id": 35,
+    "img": "https://media.printables.com/media/prints/46241/images/460061_192b3d1b-4544-4572-b316-8f405536938e/thumbs/inside/320x240/jpg/5e04faf6b1ebee0735ffb82771ca9051_display_large_46.webp",
+    "nombre":"Dino articulado",
+    "precio": 1500,
+    "articulo": "Articulados",
+    "cantidad": 1
+  },
+
+  {
+    "id": 36,
+    "img": "https://media.printables.com/media/prints/549833/images/4417899_f396a18f-9379-4372-a579-d364e64ce777/thumbs/inside/320x240/jpg/img_4369.webp",
+    "nombre":"Dispenser de latas",
+    "precio": 3000,
+    "articulo": "Organizadores",
+    "cantidad": 1
+  },
+
+  {
+    "id":37 ,
+    "img": "https://media.printables.com/media/prints/393335/images/3285257_e9ae28bf-250d-4ea7-a1db-6c9c83b46c0f/thumbs/inside/320x240/jpg/pxl_20230208_174124135portrait2-min.webp",
+    "nombre":"Zapatero",
+    "precio": 2000,
+    "articulo": "Organizadores",
+    "cantidad": 1
+  },
+
+  {
+    "id": 38,
+    "img": "https://media.printables.com/media/prints/437327/images/3668087_7c8e3395-249b-4a46-9360-a4ae7a6db0b0/thumbs/inside/320x240/jpg/pxl_20230222_202634055_edit.webp",
+    "nombre":"Soporte herramientas",
+    "precio": 1500,
+    "articulo": "Soportes",
+    "cantidad": 1
+  },
+
+  {
+    "id": 39,
+    "img": "https://media.printables.com/media/prints/187125/images/1744516_d3dcf9f7-b0e5-4579-99f1-87e23bc610d6/thumbs/inside/320x240/jpg/img_5985.webp",
+    "nombre":"Soporte para celular",
+    "precio":2000 ,
+    "articulo": "Soportes",
+    "cantidad": 1
+  },
+  
+  {
+    "id": 40,
+    "img": "https://media.printables.com/media/prints/282130/images/2496056_affd0bd7-a5b4-43ce-a42f-26db26420f5b/thumbs/inside/320x240/jpg/img_20220923_130645.webp",
+    "nombre":"Macetas",
+    "precio": 3000 ,
+    "articulo": "Decoración",
+    "cantidad": 1
+  },
+  
+  {
+    "id": 41,
+    "img": "https://media.printables.com/media/prints/374028/images/3560403_e02489d5-ede2-488f-b91a-09c993f8535f/thumbs/inside/320x240/jpg/20230119_102028.webp",
+    "nombre":"Pokebolas",
+    "precio": 2000,
+    "articulo": "Accesorio",
+    "cantidad": 1
+  },
+  
+  {
+    "id": 42,
+    "img": "https://media.printables.com/media/prints/507125/images/4113756_696440ad-7544-4d65-ab06-92dd9807c80a/thumbs/inside/320x240/jpeg/img_1230.webp",
+    "nombre":"Tapa para cepillo",
+    "precio": 800,
+    "articulo": "Accesorio",
+    "cantidad": 1
+  },
+  
+  {
+    "id": 43,
+    "img": "https://media.printables.com/media/prints/444314/images/3668245_a4f0009e-9d36-4075-b6c8-f5ea15ae8cec/thumbs/inside/320x240/jpg/tamponator.webp",
+    "nombre":"Organizador",
+    "precio": 1600,
+    "articulo": "Organizadores",
+    "cantidad": 1
+  },
+  
+  {
+    "id": 44,
+    "img": "https://media.printables.com/media/prints/289859/images/2570183_648de6fd-88b1-4b38-8e17-622f8c7ab4b0/thumbs/inside/320x240/jpg/img_4073.webp",
+    "nombre":"Organizador de cables",
+    "precio": 1500,
+    "articulo": "Organizadores",
+    "cantidad": 1
+  },
+  
+  {
+    "id":45 ,
+    "img": "https://media.printables.com/media/prints/928/images/4413311_7319794a-9d9c-401f-ae30-b92a7c0a56b2/thumbs/inside/1280x960/webp/img_1808.webp",
+    "nombre":"Cubo infinito ",
+    "precio": 2000,
+    "articulo": "fidget toy",
+    "cantidad": 1
+  },
+  
+  {
+    "id": 46,
+    "img": "https://media.printables.com/media/prints/318081/images/2750749_2f1dd63c-992c-4e79-8117-61a47e306dd4/thumbs/inside/320x240/jpg/low-poly-snorlax_flowalistik_2_3_2.webp",
+    "nombre":"Snorlax gometrico",
+    "precio": 2500,
+    "articulo": "Muñecos",
+    "cantidad": 1
+  },
+  
+  {
+    "id": 47 ,
+    "img": "https://media.printables.com/media/prints/470697/images/3856163_a51739f8-3348-47c5-bece-340dc96f73ef/thumbs/inside/320x240/jpg/20230505_062124.webp",
+    "nombre":"Agarre para bolsas",
+    "precio": 1000,
+    "articulo": "Accesorio",
+    "cantidad": 1
+  },
+  
+  {
+    "id":48 ,
+    "img": "https://media.printables.com/media/prints/626062/images/4963833_e7387c02-428b-4bfb-a9bb-3b8202bf944e_b8ca64d0-e7a0-408b-a578-f3ad44a182b0/thumbs/inside/320x240/png/vvvv.webp",
+    "nombre":"Llavero de gatito",
+    "precio": 2500 ,
+    "articulo": "aros-llaveros",
+    "cantidad": 1
+  },
+  
+  {
+    "id": 49,
+    "img": "https://media.printables.com/media/prints/409598/images/3409335_3e269a54-12c3-4f2e-800f-caddab8b9170/thumbs/inside/320x240/jpg/small-thumbnail-2.webp",
+    "nombre":"Hongos Mario bros",
+    "precio": 20000,
+    "articulo": "Accesorio",
+    "cantidad": 1
+  },
+  
+  {
+    "id": 50,
+    "img": "https://media.printables.com/media/prints/95972/images/980781_daf5041b-3da9-43b7-8309-4275af5a09c1/thumbs/inside/320x240/jpg/3d_1.webp",
+    "nombre":"Gancho",
+    "precio": 1700,
+    "articulo": "Soportes",
+    "cantidad": 1
+  },
+  
+  {
+    "id": 51,
+    "img": "https://media.printables.com/media/prints/151052/images/1422348_0283a730-bcfd-499c-b908-e323be69cbe4/thumbs/inside/320x240/jpg/pxl_20220315_125242413_4.webp",
+    "nombre":"Llavero",
+    "precio": 1200,
+    "articulo": "aros-llaveros",
+    "cantidad": 1
+  },
+  
+  {
+    "id":52 ,
+    "img": "https://media.printables.com/media/prints/63192/images/659155_5181a93c-9a27-40d9-b6f4-35b8e03fb4c1/thumbs/inside/320x240/jpg/20210410_121417.webp",
+    "nombre":"Macetas de Muñecos",
+    "precio": 3000,
+    "articulo": "Decoración",
+    "cantidad": 1
+  },
+  
+  {
+    "id": 53,
+    "img": "https://media.printables.com/media/prints/26711/images/268958_21b92682-20f2-4c7a-ae1b-a0cf7ced7256/thumbs/inside/320x240/jpg/p3257312.webp",
+    "nombre":"Porta bebida",
+    "precio": 2000,
+    "articulo": "Soportes",
+    "cantidad": 1
+  },
+  
+  {
+    "id":54 ,
+    "img": "https://media.printables.com/media/prints/492447/images/4014400_644c45e9-48d6-4766-92ec-ed29dce57c45/thumbs/inside/320x240/png/ringosaurus-cover.webp",
+    "nombre":"Posa anillos",
+    "precio": 1800,
+    "articulo": "Accesorio",
+    "cantidad": 1
+  },
+  
+  {
+    "id": 55,
+    "img": "https://media.printables.com/media/prints/550636/images/4424184_2f706bd7-5eaf-443a-9f44-d44f7652be4f/thumbs/inside/320x240/jpg/20230812_134409.webp",
+    "nombre":"Llavero corazón",
+    "precio": 1000,
+    "articulo": "aros-llaveros",
+    "cantidad": 1
+  },
+  
+  {
+    "id":56 ,
+    "img": "https://media.printables.com/media/prints/431413/images/3571924_ff8f0ba4-3be3-4724-8019-b08a24165d3d/thumbs/inside/320x240/jpg/cover.webp",
+    "nombre":"Cubo de ilusion",
+    "precio": 2000,
+    "articulo": "Decoración",
+    "cantidad": 1
+  },
+  
+  {
+    "id": 57,
+    "img": "https://media.printables.com/media/prints/585189/images/4677096_24556f37-2cdf-4609-8d99-1f96944efaf4/thumbs/inside/320x240/jpg/img_3736.webp",
+    "nombre":"Clips para bolsas",
+    "precio": 500,
+    "articulo": "Accesorio",
+    "cantidad": 1
+  },
+  
+  {
+    "id": 58,
+    "img": "https://media.printables.com/media/prints/35826/images/1833895_b94963ee-3e54-45b5-b4af-8a8b1b3a69b7/thumbs/inside/320x240/jpg/img01.webp",
+    "nombre":"Gancho",
+    "precio": 600,
+    "articulo": "Soportes",
+    "cantidad": 1
+  },
+  
+  {
+    "id": 59,
+    "img": "https://media.printables.com/media/prints/225151/images/2055893_767b00cd-2ce7-499a-ba16-c9742b1689f0/thumbs/inside/320x240/jpg/img_1824_e_1_1.webp",
+    "nombre":"Set de macetas",
+    "precio": 3000,
+    "articulo": "Decoración",
+    "cantidad": 1
+  },
+  
+  {
+    "id": 60,
+    "img": "https://media.printables.com/media/prints/49297/images/490017_ac560118-decf-4ce1-a093-305361a80d03/thumbs/inside/320x240/jpg/img_1014.webp",
+    "nombre":"Tornillo anti-estres",
+    "precio": 1800,
+    "articulo": "fidget toy",
+    "cantidad": 1
+  },
+  
+  {
+    "id": 61,
+    "img": "https://media.printables.com/media/prints/23024/images/228543_479b9879-80c4-49b6-8d19-6bfc6df32f62/thumbs/inside/320x240/jpg/loki_23024.webp",
+    "nombre":"La mascara",
+    "precio": 4000,
+    "articulo": "Decoración",
+    "cantidad": 1
+  },
+  
+  {
+    "id": 62,
+    "img": "https://media.printables.com/media/prints/557413/images/4479809_3073c551-88ae-4251-8d46-618a082b50b9/thumbs/inside/320x240/jpg/bild_03.webp",
+    "nombre":"Tarjetero",
+    "precio": 1500,
+    "articulo": "Accesorio",
+    "cantidad": 1
+  },
+  
+  {
+    "id": 63,
+    "img": "https://media.printables.com/media/prints/477914/images/3908907_0eb5ad69-8671-4033-9e44-ca3d0b7f3191/thumbs/inside/320x240/jpg/7m3a8331.webp",
+    "nombre":"Tapa de caja",
+    "precio": 1200,
+    "articulo": "Decoración",
+    "cantidad": 1
+  },
+  
+  {
+    "id":64 ,
+    "img": "https://media.printables.com/media/prints/488239/images/3985402_03ee3a45-3b21-4730-9744-e270896927ad/thumbs/inside/320x240/jpeg/star.webp",
+    "nombre":"Mini macetas",
+    "precio": 1500,
+    "articulo": "Decoración",
+    "cantidad": 1
+  },
+  
+  {
+    "id":65 ,
+    "img": "https://media.printables.com/media/prints/521268/images/4217508_c8f438da-c4f9-4ef3-8358-b6821a81805a/thumbs/inside/320x240/png/pacman2.webp",
+    "nombre":"Mini macetas",
+    "precio": 1000,
+    "articulo": "Decoración",
+    "cantidad": 1
+  },
+  
+  {
+    "id": 66,
+    "img": "https://media.printables.com/media/prints/622327/images/4936076_432f5da5-dd81-4d62-8f8b-53c5550f7eac_2596a85c-771f-46ab-83c6-4809af0423ba/thumbs/inside/320x240/jpg/20231021_232458.webp",
+    "nombre":"Tope para puertas",
+    "precio": 2000,
+    "articulo": "Accesorio",
+    "cantidad": 1
+  },
+  
+  {
+    "id": 67,
+    "img": "https://media.printables.com/media/prints/276901/images/2464265_b07973be-8c3e-468a-a321-62da8343cf46/thumbs/inside/320x240/png/thumb.webp",
+    "nombre":"Stick anti-estres",
+    "precio": 2000,
+    "articulo": "fidget toy",
+    "cantidad": 1
+  },
+  
+  {
+    "id": 68,
+    "img": "https://media.printables.com/media/prints/87042/images/921364_b6436ba3-fef8-4a9b-9f98-2449876e7d60/thumbs/inside/320x240/jpg/pxl_20211116_143642349.webp",
+    "nombre":"Juguete anti-estres",
+    "precio": 2000,
+    "articulo": "fidget toy",
+    "cantidad": 1
+  }
+  
+
+]
